@@ -1,0 +1,14 @@
+C:\workspace\samurai\SamaraiApp\SamuraiApp.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\workspace\samurai\SamaraiApp\SamuraiApp.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\workspace\samurai\SamaraiApp\SamuraiApp.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\workspace\samurai\SamaraiApp\SamuraiApp.Tests\bin\Debug\netcoreapp2.1\SamuraiApp.Tests.deps.json
+C:\workspace\samurai\SamaraiApp\SamuraiApp.Tests\bin\Debug\netcoreapp2.1\SamuraiApp.Tests.runtimeconfig.json
+C:\workspace\samurai\SamaraiApp\SamuraiApp.Tests\bin\Debug\netcoreapp2.1\SamuraiApp.Tests.runtimeconfig.dev.json
+C:\workspace\samurai\SamaraiApp\SamuraiApp.Tests\bin\Debug\netcoreapp2.1\SamuraiApp.Tests.dll
+C:\workspace\samurai\SamaraiApp\SamuraiApp.Tests\bin\Debug\netcoreapp2.1\SamuraiApp.Tests.pdb
+C:\workspace\samurai\SamaraiApp\SamuraiApp.Tests\obj\Debug\netcoreapp2.1\SamuraiApp.Tests.csprojAssemblyReference.cache
+C:\workspace\samurai\SamaraiApp\SamuraiApp.Tests\obj\Debug\netcoreapp2.1\SamuraiApp.Tests.csproj.CoreCompileInputs.cache
+C:\workspace\samurai\SamaraiApp\SamuraiApp.Tests\obj\Debug\netcoreapp2.1\SamuraiApp.Tests.AssemblyInfoInputs.cache
+C:\workspace\samurai\SamaraiApp\SamuraiApp.Tests\obj\Debug\netcoreapp2.1\SamuraiApp.Tests.AssemblyInfo.cs
+C:\workspace\samurai\SamaraiApp\SamuraiApp.Tests\obj\Debug\netcoreapp2.1\SamuraiApp.Tests.dll
+C:\workspace\samurai\SamaraiApp\SamuraiApp.Tests\obj\Debug\netcoreapp2.1\SamuraiApp.Tests.pdb
